@@ -5,9 +5,14 @@
 
 # Dokumentasi (Optional)
 
-Jika ingin membuat pengecekan dengan playerConnecting sendiri gunakan API dibawah ini.
+Jika ingin membuat pengecekan dengan playerConnecting sendiri gunakan API dibawah ini. (Contoh cek server.lua)
+
 Untuk saat ini hanya tersedia Method GET saja untuk mengambil data yang sudah terkumpul.
-Next Update akan saya buatkan tambah data
+
+Next Update akan saya buatkan tambah data.
+
+## API
+
 Berikut adalah List API yang digunakan :
 
 Get Data Ban List (GET) :  https://api.vercityrp.id/api/ban-list
